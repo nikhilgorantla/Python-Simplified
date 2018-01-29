@@ -8,3 +8,5 @@
 
 ## Variables
 
+* [Variables](variables.md)
+
