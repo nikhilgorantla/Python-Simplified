@@ -26,3 +26,7 @@
 * [Except Statement](conditions/except-statement.md)
 * [Conditions Key Terms](conditions/conditions-key-terms.md)
 
+## Loops
+
+* [While Statement](loops/while-statement.md)
+
