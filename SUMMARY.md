@@ -20,4 +20,5 @@
 
 * [Comparison Operations](conditions/comparison-operations.md)
 * [Boolean Operations](conditions/boolean-operations.md)
+* [Bitwise Operations](conditions/bitwise-operations.md)
 
