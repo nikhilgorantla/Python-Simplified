@@ -1,3 +1,12 @@
-# My Awesome Book
+# Python Simplified
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+**Python **
+
+Python is a widely used high-level, general-purpose, interpreted, dynamic programming language. Its design philosophy emphasizes code readability, and its syntax allows programmers to express concepts in fewer lines of code than possible in other popular programming languages.
+
+Well i will stop .... this is kind of boring stuff you have been learning about python but here you get stripped down version of python no fuzz no bs just python...
+
+Let's start the pythonic adventure !!!!
+
+NIKHIL
+
