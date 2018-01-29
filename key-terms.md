@@ -110,7 +110,7 @@ The operation that divides two numbers and chops off the fractional part.
 
 A type that represents whole numbers.
 
-[\[27\]](https://en.wikiversity.org/wiki/Python_Programming/Variables#cite_note-27)
+
 
 keyword
 
