@@ -32,4 +32,5 @@
 * [For Statement](loops/for-statement.md)
 * [Range Function](loops/range-function.md)
 * [Break Statement](break-statement.md)
+* [Continue Statement](loops/continue-statement.md)
 
