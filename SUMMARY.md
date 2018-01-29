@@ -15,6 +15,7 @@
 * [Assignment Operations  ](assignment-operations.md)
 * [Input Function   ](input-function.md)
 * [Variables Key Terms](key-terms.md)
+* [Variables Key Terms](variables-key-terms.md)
 
 ## Conditions
 
@@ -24,4 +25,5 @@
 * [If Statement](conditions/if-statement.md)
 * [Try Statement](conditions/try-statement.md)
 * [Except Statement](conditions/except-statement.md)
+* [Conditions Key Terms](conditions/conditions-key-terms.md)
 
