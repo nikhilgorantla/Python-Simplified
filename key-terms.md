@@ -72,7 +72,7 @@
 
   * A program in a high-level language.
 
-## Variable Key Terms
+## Variable Key Terms {#variables-key-terms}
 
 * **assignment**
   * A statement that assigns a value to a variable.
@@ -114,6 +114,10 @@
   * One of the basic units of data, like a number or string, that a program manipulates.
 * **variable**
   * A name that refers to a value.
+
+
+
+
 
 
 
