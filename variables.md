@@ -1,8 +1,4 @@
-# Variables {#firstHeading}
-
-
-
-**Data Types**
+# **Data Types  **
 
 Built-in Python data types include integer \(int\), floating point \(float\), string \(str\), and Boolean \(bool\) data types.
 
@@ -26,36 +22,8 @@ print(type(value))    # Displays <type 'bool'>
 
 
 
-**Type Conversion**
-
-An object’s type is accessed by the built-in function type\(\).
-
-```
-value = 1.9
-print(value)          # Displays 1.9
-print(type(value))    # Displays <type 'float'>
-value = int(value)
-print(value)          # Displays 1
-print(type(value))    # Displays <type 'int'>
-
-value = 1
-print(value)          # Displays 1
-print(type(value))    # Displays <type 'int'>
-value = float(value)  
-print(value)          # Displays 1.0
-print(type(value))    # Displays <type 'float'>
-
-value = 1
-print(value)          # Displays 1
-print(type(value))    # Displays <type 'int'>
-value = str(value)  
-print(value)          # Displays 1
-print(type(value))    # Displays <type 'str'>
-```
-
-
-
-**Quotes**
+**Quotes      
+**
 
 String literals are written in a variety of ways, including single quotes, double quotes, and triple quotes. Triple quoted strings may span multiple lines.\[4\] The backslash \(\\) character is used to escape characters that otherwise have a special meaning, such as newline, backslash itself, or the quote character.
 
@@ -81,9 +49,8 @@ value = "\"escape character quotes\nand multiple lines\""
 print(value)
 ```
 
-
-
-**Numeric Operations**
+**Numeric Operations      
+**
 
 All numeric types \(except complex\) support the following operations, sorted by ascending priority.
 
@@ -101,13 +68,10 @@ print(-a)        # -3
 print(a ** b)    # 9
 ```
 
-
-
-**Assignment Operations**
+**Assignment Operations      
+**
 
 An assignment statement evaluates the expression and assigns the result to the target. Augmented assignment is the combination, in a single statement, of an operation and an assignment statement.
-
-
 
 ```
 a = 3
@@ -122,9 +86,8 @@ a %= b    # a = 1.0
 a **= b   # a = 1.0
 ```
 
-
-
-**Input Function**
+**Input Function      
+**
 
 Python 2: If the prompt argument is present, it is written to standard output without a trailing newline. The function then reads a line from input, converts it to a string \(stripping a trailing newline\), which is then parsed and evaluated as a Python expression.
 

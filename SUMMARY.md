@@ -8,5 +8,12 @@
 
 ## Variables
 
-* [Variables](variables.md)
+* [Data Types](variables.md)
+* [Type Conversion ](type-conversion.md)
+* [Quotes](quotes.md)
+* Numeric Operations   
+* Assignment Operations  
+* Input Function   
+
+## next
 
