@@ -1,3 +1,9 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+## Introduction
+
+* [Introduction](README.md)
+* [Basics](chapter1.md)
+
+## Variables
+
