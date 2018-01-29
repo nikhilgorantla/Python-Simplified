@@ -1,7 +1,5 @@
 # Key Terms in Python
 
-
-
 ## **Basic Key terms **
 
 * **bug**
@@ -73,6 +71,16 @@
 * **source code**
 
   * A program in a high-level language.
+
+
+
+
+
+## Variable Key Terms
+
+
+
+
 
 
 
