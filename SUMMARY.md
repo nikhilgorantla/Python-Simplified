@@ -12,7 +12,7 @@
 * [Type Conversion ](type-conversion.md)
 * [Quotes](quotes.md)
 * [Numeric Operations   ](numeric-operations.md)
-* Assignment Operations  
+* [Assignment Operations  ](assignment-operations.md)
 * Input Function   
 
 ## next
