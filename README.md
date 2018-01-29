@@ -8,5 +8,7 @@ Well i will stop .... this is kind of boring stuff you have been learning about 
 
 Let's start the pythonic adventure !!!!
 
+Read Full book at -&gt;  https://nikhilgorantla.gitbooks.io/python-simplified
+
 NIKHIL
 
