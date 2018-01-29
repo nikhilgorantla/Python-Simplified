@@ -29,4 +29,5 @@
 ## Loops
 
 * [While Statement](loops/while-statement.md)
+* [For Statement](loops/for-statement.md)
 
