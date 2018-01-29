@@ -1,4 +1,4 @@
-# Basic Python Syntax 
+# Basic Python Syntax
 
 ### Comments
 
@@ -25,8 +25,7 @@ print
 The exit function exits from Python.
 
 ```
-exit
-()
+exit()
 ```
 
 
