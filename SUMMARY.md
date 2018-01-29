@@ -13,7 +13,7 @@
 * [Quotes](quotes.md)
 * [Numeric Operations   ](numeric-operations.md)
 * [Assignment Operations  ](assignment-operations.md)
-* Input Function   
+* [Input Function   ](input-function.md)
 
 ## next
 
