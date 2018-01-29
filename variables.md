@@ -22,26 +22,7 @@ print(type(value))    # Displays <type 'bool'>
 
 
 
-**Numeric Operations        
-**
-
-All numeric types \(except complex\) support the following operations, sorted by ascending priority.
-
-```
-a = 3
-b = 2
-
-print(a + b)     # 5
-print(a - b)     # 1
-print(a * b)     # 6
-print(a / b)     # 1.5
-print(a // b)    # 1
-print(a % b)     # 1
-print(-a)        # -3
-print(a ** b)    # 9
-```
-
-**Assignment Operations        
+**Assignment Operations          
 **
 
 An assignment statement evaluates the expression and assigns the result to the target. Augmented assignment is the combination, in a single statement, of an operation and an assignment statement.
@@ -59,7 +40,7 @@ a %= b    # a = 1.0
 a **= b   # a = 1.0
 ```
 
-**Input Function        
+**Input Function          
 **
 
 Python 2: If the prompt argument is present, it is written to standard output without a trailing newline. The function then reads a line from input, converts it to a string \(stripping a trailing newline\), which is then parsed and evaluated as a Python expression.

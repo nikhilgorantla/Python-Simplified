@@ -11,7 +11,7 @@
 * [Data Types](variables.md)
 * [Type Conversion ](type-conversion.md)
 * [Quotes](quotes.md)
-* Numeric Operations   
+* [Numeric Operations   ](numeric-operations.md)
 * Assignment Operations  
 * Input Function   
 
