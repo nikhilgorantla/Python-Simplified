@@ -22,34 +22,7 @@ print(type(value))    # Displays <type 'bool'>
 
 
 
-**Quotes      
-**
-
-String literals are written in a variety of ways, including single quotes, double quotes, and triple quotes. Triple quoted strings may span multiple lines.\[4\] The backslash \(\\) character is used to escape characters that otherwise have a special meaning, such as newline, backslash itself, or the quote character.
-
-```
-value = 'single quotes'
-print(value)
-
-value = "double quotes"
-print(value)
-
-value = \
-'''triple quotes
-    span multiple lines'''
-print(value)
-
-value = '"nested quotes"'
-print(value)
-
-value = "'nested quotes'"
-print(value)
-
-value = "\"escape character quotes\nand multiple lines\""
-print(value)
-```
-
-**Numeric Operations      
+**Numeric Operations        
 **
 
 All numeric types \(except complex\) support the following operations, sorted by ascending priority.
@@ -68,7 +41,7 @@ print(-a)        # -3
 print(a ** b)    # 9
 ```
 
-**Assignment Operations      
+**Assignment Operations        
 **
 
 An assignment statement evaluates the expression and assigns the result to the target. Augmented assignment is the combination, in a single statement, of an operation and an assignment statement.
@@ -86,7 +59,7 @@ a %= b    # a = 1.0
 a **= b   # a = 1.0
 ```
 
-**Input Function      
+**Input Function        
 **
 
 Python 2: If the prompt argument is present, it is written to standard output without a trailing newline. The function then reads a line from input, converts it to a string \(stripping a trailing newline\), which is then parsed and evaluated as a Python expression.
