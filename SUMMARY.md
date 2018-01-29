@@ -19,4 +19,5 @@
 ## Conditions
 
 * [Comparison Operations](conditions/comparison-operations.md)
+* [Boolean Operations](conditions/boolean-operations.md)
 
