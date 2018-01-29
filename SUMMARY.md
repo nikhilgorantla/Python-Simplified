@@ -18,3 +18,5 @@
 
 ## Conditions
 
+* [Comparison Operations](conditions/comparison-operations.md)
+
