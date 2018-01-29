@@ -23,4 +23,5 @@
 * [Bitwise Operations](conditions/bitwise-operations.md)
 * [If Statement](conditions/if-statement.md)
 * [Try Statement](conditions/try-statement.md)
+* [Except Statement](conditions/except-statement.md)
 
