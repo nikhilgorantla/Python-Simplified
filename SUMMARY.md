@@ -91,4 +91,5 @@
   * [Class Methods](classes/class-methods.md)
   * [Class Initialization](classes/class-initialization.md)
   * [Class Example](classes/class-example.md)
+  * [Inheritance](classes/inheritance.md)
 
