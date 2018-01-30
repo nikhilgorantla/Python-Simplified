@@ -80,4 +80,5 @@
   * [Order](tuples-and-sets/order.md)
   * [Duplication](tuples-and-sets/duplication.md)
   * [Looping](tuples-and-sets/looping.md)
+  * [Index](tuples-and-sets/index.md)
 
