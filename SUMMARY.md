@@ -87,4 +87,5 @@
 * [Classes](classes.md)
   * [Class Definition](classes/class-definition.md)
   * [Class Instantiation](classes/class-instantiation.md)
+  * [Class Attributes](classes/class-attributes.md)
 
