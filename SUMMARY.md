@@ -96,4 +96,5 @@
   * [Key Terms](classes/key-terms.md)
 * [Python Modules](python-modules.md)
   * [Modules](python-modules/modules.md)
+  * [The import Statement](python-modules/the-import-statement.md)
 
