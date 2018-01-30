@@ -50,4 +50,5 @@
 * [Variable Named Arguments](functions/variable-named-arguments.md)
 * [Docstring](functions/docstring.md)
 * [Recursion Example](functions/recursion-example.md)
+* [Functions Key Words](functions/functions-key-words.md)
 
