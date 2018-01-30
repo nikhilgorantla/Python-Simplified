@@ -62,4 +62,5 @@
   * [Methods](python-lists/methods.md)
   * [Stacks and Queues](python-lists/stacks-and-queues.md)
   * [Split](python-lists/split.md)
+  * [Python Lists Keywords](python-lists/python-lists-keywords.md)
 
