@@ -113,4 +113,5 @@
   * [The os.getcwd\(\) Method](files/the-osgetcwd-method.md)
   * [The os.chdir\(\) Method](files/the-oschdir-method.md)
   * [The os.path.isdir\(\) Method](files/the-ospathisdir-method.md)
+  * [The os.path.join\(\) Method](files/the-ospathjoin-method.md)
 
