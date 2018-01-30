@@ -56,4 +56,5 @@
   * [LIsts](python-lists/lists.md)
   * [Index](python-lists/index.md)
   * [Concatenation](python-lists/concatenation.md)
+  * [Slicing](python-lists/slicing.md)
 
