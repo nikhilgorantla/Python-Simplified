@@ -7,7 +7,8 @@
   * [Key Terms](key-terms.md)
 * [VARIABLES](variables.md)
   * [Data Types](variables/data-types.md)
-    * [Type Conversion](variables/data-types/type-conversion.md)
+  * [Type Conversion](variables/data-types/type-conversion.md)
+  * [Quotes](variables/quotes.md)
 
 ## Conditions
 
