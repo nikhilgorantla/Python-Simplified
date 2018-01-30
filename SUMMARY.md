@@ -83,4 +83,5 @@
   * [Index](tuples-and-sets/index.md)
   * [Tuple Assignment](tuples-and-sets/tuple-assignment.md)
   * [Set Operations](tuples-and-sets/set-operations.md)
+  * [Key Terms](tuples-and-sets/key-terms.md)
 
