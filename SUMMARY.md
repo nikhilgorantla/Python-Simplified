@@ -41,4 +41,5 @@
 * [User-Defined Functions](user-defined-functions.md)
 * [Local Variables](functions/local-variables.md)
 * [Global Variables](functions/global-variables.md)
+* [Nonlocal Variables](functions/nonlocal-variables.md)
 
