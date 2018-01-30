@@ -123,4 +123,5 @@
   * [The file.close\(\) Method](files/the-fileclose-method.md)
   * [The file.read\(\) Method](files/the-fileread-method.md)
   * [Reading Lines](files/reading-lines.md)
+  * [The file.tell\(\) Method](files/the-filetell-method.md)
 
