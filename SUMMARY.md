@@ -94,4 +94,6 @@
   * [Inheritance](classes/inheritance.md)
   * [Inheritance Example](classes/inheritance-example.md)
   * [Key Terms](classes/key-terms.md)
+* [Python Modules](python-modules.md)
+  * [Modules](python-modules/modules.md)
 
