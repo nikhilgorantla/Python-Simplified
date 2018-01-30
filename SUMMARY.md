@@ -70,4 +70,5 @@
   * [Looping](dictionaries/looping.md)
   * [Sorting by Key](dictionaries/sorting-by-key.md)
   * [Sorting by Value](dictionaries/sorting-by-value.md)
+  * [Dictionary as Return Value](dictionaries/dictionary-as-return-value.md)
 
