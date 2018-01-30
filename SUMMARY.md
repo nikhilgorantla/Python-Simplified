@@ -66,4 +66,5 @@
 * [Python Dictionaries](dictionaries.md)
   * [Dictionaries](dictionaries/dictionaries.md)
   * [Dictionary Updates](dictionaries/dictionary-updates.md)
+  * [Multidimensional Dictionaries](dictionaries/multidimensional-dictionaries.md)
 
