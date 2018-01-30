@@ -38,4 +38,5 @@
 ## Functions
 
 * [Built-In Functions](functions/built-in-functions.md)
+* [User-Defined Functions](user-defined-functions.md)
 
