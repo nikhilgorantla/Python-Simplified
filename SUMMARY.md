@@ -67,4 +67,5 @@
   * [Dictionaries](dictionaries/dictionaries.md)
   * [Dictionary Updates](dictionaries/dictionary-updates.md)
   * [Multidimensional Dictionaries](dictionaries/multidimensional-dictionaries.md)
+  * [Looping](dictionaries/looping.md)
 
