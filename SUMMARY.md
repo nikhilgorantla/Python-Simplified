@@ -133,4 +133,5 @@
   * [The urllib.request.urlopen\(\) Method](internet-data/the-urllibrequesturlopen-method.md)
   * [The xml.etree.ElementTree.fromstring\(\) Method](internet-data/the-xmletreeelementtreefromstring-method.md)
   * [The xml.etree.ElementTree.ElementTree\(\) Method](internet-data/the-xmletreeelementtreeelementtree-method.md)
+  * [The xml.etree.ElementTree.iter\(\) Method](internet-data/the-xmletreeelementtreeiter-method.md)
 
