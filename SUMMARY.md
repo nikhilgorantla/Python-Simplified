@@ -111,4 +111,5 @@
   * [Key Terms](regex/key-terms.md)
 * [Files](files.md)
   * [The os.getcwd\(\) Method](files/the-osgetcwd-method.md)
+  * [The os.chdir\(\) Method](files/the-oschdir-method.md)
 
