@@ -88,4 +88,6 @@
   * [Class Definition](classes/class-definition.md)
   * [Class Instantiation](classes/class-instantiation.md)
   * [Class Attributes](classes/class-attributes.md)
+  * [Class Methods](classes/class-methods.md)
+  * [Class Initialization](classes/class-initialization.md)
 
