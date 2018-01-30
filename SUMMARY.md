@@ -74,4 +74,5 @@
   * [Dictionaries Key Words](dictionaries/dictionaries-key-words.md)
 * [Tuples and Sets](tuples-and-sets.md)
   * Data Structures
+  * [Data Types](tuples-and-sets/data-types.md)
 
