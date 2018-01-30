@@ -58,4 +58,5 @@
   * [Concatenation](python-lists/concatenation.md)
   * [Slicing](python-lists/slicing.md)
   * [Mutable](python-lists/mutable.md)
+  * [Multidimensional](python-lists/multidimensional.md)
 
