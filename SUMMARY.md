@@ -127,4 +127,5 @@
   * [The file.seek\(\) Method](files/the-fileseek-method.md)
   * [The os.rename\(\) Method](files/the-osrename-method.md)
   * The os.remove\(\) Method
+  * [The sys.argv Property](files/the-sysargv-property.md)
 
