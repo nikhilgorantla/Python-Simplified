@@ -81,4 +81,5 @@
   * [Duplication](tuples-and-sets/duplication.md)
   * [Looping](tuples-and-sets/looping.md)
   * [Index](tuples-and-sets/index.md)
+  * [Tuple Assignment](tuples-and-sets/tuple-assignment.md)
 
