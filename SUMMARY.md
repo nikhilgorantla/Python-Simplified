@@ -118,4 +118,7 @@
   * [The os.rmdir\(\) Method](files/the-osrmdir-method.md)
   * [The os.walk\(\) Method](files/the-oswalk-method.md)
   * [The os.path.isfile\(\) Method](files/the-ospathisfile-method.md)
+  * [The open\(\) Function](files/the-open-function.md)
+  * [The file.write\(\) Method](files/the-filewrite-method.md)
+  * [The file.close\(\) Method](files/the-fileclose-method.md)
 
