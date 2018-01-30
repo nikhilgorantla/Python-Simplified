@@ -60,4 +60,5 @@
   * [Mutable](python-lists/mutable.md)
   * [Multidimensional](python-lists/multidimensional.md)
   * [Methods](python-lists/methods.md)
+  * [Stacks and Queues](python-lists/stacks-and-queues.md)
 
