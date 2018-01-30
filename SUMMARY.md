@@ -59,4 +59,5 @@
   * [Slicing](python-lists/slicing.md)
   * [Mutable](python-lists/mutable.md)
   * [Multidimensional](python-lists/multidimensional.md)
+  * [Methods](python-lists/methods.md)
 
