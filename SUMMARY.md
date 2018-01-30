@@ -115,4 +115,5 @@
   * [The os.path.isdir\(\) Method](files/the-ospathisdir-method.md)
   * [The os.path.join\(\) Method](files/the-ospathjoin-method.md)
   * [The os.mkdir\(\) Method](files/the-osmkdir-method.md)
+  * [The os.rmdir\(\) Method](files/the-osrmdir-method.md)
 
