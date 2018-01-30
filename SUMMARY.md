@@ -12,6 +12,7 @@
   * [Numeric Operations](variables/numeric-operations.md)
   * [Assignment Operations](variables/assignment-operations.md)
   * [Input Function](variables/input-function.md)
+  * [Variable Key Terms](variables/variable-key-terms.md)
 
 ## Conditions
 
