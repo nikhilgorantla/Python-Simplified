@@ -45,5 +45,5 @@
   * [Functions Key Words](functions/functions-key-words.md)
 * [Strings](strings.md)
   * [Strings](strings/len-function.md)
-  * Membership Comparisons
+  * [Membership Comparisons](strings/membership-comparisons.md)
 
