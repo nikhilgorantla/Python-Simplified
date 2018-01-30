@@ -134,4 +134,6 @@
   * [The xml.etree.ElementTree.fromstring\(\) Method](internet-data/the-xmletreeelementtreefromstring-method.md)
   * [The xml.etree.ElementTree.ElementTree\(\) Method](internet-data/the-xmletreeelementtreeelementtree-method.md)
   * [The xml.etree.ElementTree.iter\(\) Method](internet-data/the-xmletreeelementtreeiter-method.md)
+  * [The json.loads\(\) Method](internet-data/the-jsonloads-method.md)
+  * [The smtplib Module](internet-data/the-smtplib-module.md)
 
