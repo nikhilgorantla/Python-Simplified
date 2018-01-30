@@ -52,3 +52,7 @@
 * [Recursion Example](functions/recursion-example.md)
 * [Functions Key Words](functions/functions-key-words.md)
 
+## Strings
+
+* [Strings](strings/len-function.md)
+
