@@ -108,4 +108,5 @@
   * [The split\(\) Method](regex/the-split-method.md)
   * [The compile\(\) Method](regex/the-compile-method.md)
   * [Match Groups](regex/match-groups.md)
+  * [Key Terms](regex/key-terms.md)
 
