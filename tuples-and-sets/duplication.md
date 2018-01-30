@@ -21,5 +21,25 @@ dictionary: {1: 'one'}
 set: {1}
 ```
 
+Sets may be used to remove duplication found in other data structures.
+
+```
+list = [1, 1, 1]
+tuple = (1, 1, 1)
+
+print("list:", list)
+print("set:", set(list))
+
+print("tuple:", tuple)
+print("set:", set(tuple))
+
+Output:
+
+list: [1, 1, 1]
+set: {1}
+tuple: (1, 1, 1)
+set: {1}
+```
+
 
 
