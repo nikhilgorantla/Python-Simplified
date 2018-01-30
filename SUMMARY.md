@@ -51,4 +51,5 @@
   * [String Formatting](strings/string-formatting.md)
   * [Method str.format\(\) Function](strings/strformat-method.md)
   * [Method len\(\) function](strings/method-len-function.md)
+  * [Strings Key words](strings/strings-key-words.md)
 
