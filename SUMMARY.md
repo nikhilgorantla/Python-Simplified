@@ -84,4 +84,6 @@
   * [Tuple Assignment](tuples-and-sets/tuple-assignment.md)
   * [Set Operations](tuples-and-sets/set-operations.md)
   * [Key Terms](tuples-and-sets/key-terms.md)
+* [Classes](classes.md)
+  * [Class Definition](classes/class-definition.md)
 
