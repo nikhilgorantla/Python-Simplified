@@ -47,4 +47,5 @@
   * [Strings](strings/len-function.md)
   * [Membership Comparisons](strings/membership-comparisons.md)
   * [String Methods](strings/string-methods.md)
+  * [String Parsing](strings/string-parsing.md)
 
