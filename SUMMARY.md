@@ -69,4 +69,5 @@
   * [Multidimensional Dictionaries](dictionaries/multidimensional-dictionaries.md)
   * [Looping](dictionaries/looping.md)
   * [Sorting by Key](dictionaries/sorting-by-key.md)
+  * [Sorting by Value](dictionaries/sorting-by-value.md)
 
