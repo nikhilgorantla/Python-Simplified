@@ -61,4 +61,5 @@
   * [Multidimensional](python-lists/multidimensional.md)
   * [Methods](python-lists/methods.md)
   * [Stacks and Queues](python-lists/stacks-and-queues.md)
+  * [Split](python-lists/split.md)
 
