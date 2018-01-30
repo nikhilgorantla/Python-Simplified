@@ -86,4 +86,5 @@
   * [Key Terms](tuples-and-sets/key-terms.md)
 * [Classes](classes.md)
   * [Class Definition](classes/class-definition.md)
+  * [Class Instantiation](classes/class-instantiation.md)
 
