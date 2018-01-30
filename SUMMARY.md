@@ -103,4 +103,5 @@
   * [The match\(\) Method](regex/the-match-method.md)
   * [The search\(\) Method](regex/the-search-method.md)
   * [Greedy vs. Non-greedy](regex/greedy-vs-non-greedy.md)
+  * [The findall\(\) Method](regex/the-findall-method.md)
 
