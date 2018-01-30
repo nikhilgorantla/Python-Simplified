@@ -12,8 +12,8 @@ for letter in string:
 print("\nCharacters by position:")
 for i in range(len(string)):
     print("string[%d]: %c" % (i, string[i]))
-    
-    
+
+
 Output:
 
 Characters:
@@ -28,8 +28,6 @@ string[1]: e
 string[2]: s
 string[3]: t
 ```
-
-# 
 
 
 

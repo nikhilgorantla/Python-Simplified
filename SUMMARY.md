@@ -44,7 +44,7 @@
   * [Recursion Example](functions/recursion-example.md)
   * [Functions Key Words](functions/functions-key-words.md)
 * [Strings](strings.md)
-  * [Strings](strings/len-function.md)
+  * [Python Strings](strings/len-function.md)
   * [Membership Comparisons](strings/membership-comparisons.md)
   * [String Methods](strings/string-methods.md)
   * [String Parsing](strings/string-parsing.md)
