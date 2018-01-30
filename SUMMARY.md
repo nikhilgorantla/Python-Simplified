@@ -92,4 +92,5 @@
   * [Class Initialization](classes/class-initialization.md)
   * [Class Example](classes/class-example.md)
   * [Inheritance](classes/inheritance.md)
+  * [Inheritance Example](classes/inheritance-example.md)
 
