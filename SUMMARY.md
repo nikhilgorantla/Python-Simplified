@@ -10,6 +10,7 @@
   * [Type Conversion](variables/data-types/type-conversion.md)
   * [Quotes](variables/quotes.md)
   * [Numeric Operations](variables/numeric-operations.md)
+  * [Assignment Operations](variables/assignment-operations.md)
 
 ## Conditions
 
