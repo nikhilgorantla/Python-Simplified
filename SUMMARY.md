@@ -79,4 +79,5 @@
   * [Mutability](tuples-and-sets/mutability.md)
   * [Order](tuples-and-sets/order.md)
   * [Duplication](tuples-and-sets/duplication.md)
+  * [Looping](tuples-and-sets/looping.md)
 
