@@ -76,4 +76,5 @@
   * Data Structures
   * [Data Types](tuples-and-sets/data-types.md)
   * [Functions](tuples-and-sets/functions.md)
+  * [Mutability](tuples-and-sets/mutability.md)
 
