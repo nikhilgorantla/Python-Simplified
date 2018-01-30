@@ -52,4 +52,6 @@
   * [Method str.format\(\) Function](strings/strformat-method.md)
   * [Method len\(\) function](strings/method-len-function.md)
   * [Strings Key words](strings/strings-key-words.md)
+* [Python Lists](python-lists.md)
+  * LIsts
 
