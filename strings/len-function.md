@@ -1,4 +1,4 @@
-# Strings
+# Python Strings
 
 Textual data in Python is handled with str objects, or strings. Strings are immutable sequences of Unicode code points.
 
