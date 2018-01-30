@@ -3,18 +3,20 @@
 ## Introduction
 
 * [Introduction](README.md)
-* [Basics](chapter1.md)
-* [Key Terms](key-terms.md)
+  * [Basics](chapter1.md)
+  * [Key Terms](key-terms.md)
 
 ## Variables
 
-* [Data Types](variables.md)
-* [Type Conversion ](type-conversion.md)
-* [Quotes](quotes.md)
-* [Numeric Operations   ](numeric-operations.md)
-* [Assignment Operations  ](assignment-operations.md)
-* [Input Function   ](input-function.md)
-* [Variables Key Terms](variables-key-terms.md)
+* [Variables](variables.md)
+  * [Variables](variables.md)
+  * [Data Types](data-types.md)
+  * [Type Conversion ](type-conversion.md)
+  * [Quotes](quotes.md)
+  * [Numeric Operations   ](numeric-operations.md)
+  * [Assignment Operations  ](assignment-operations.md)
+  * [Input Function   ](input-function.md)
+  * [Variables Key Terms](variables-key-terms.md)
 
 ## Conditions
 
@@ -55,4 +57,5 @@
 ## Strings
 
 * [Strings](strings/len-function.md)
+* Membership Comparisons
 
