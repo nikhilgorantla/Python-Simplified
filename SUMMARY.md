@@ -45,4 +45,5 @@
 * [Parameters](functions/parameters.md)
 * [Parameter Validation](functions/parameter-validation.md)
 * [Assertions](functions/assertions.md)
+* [Variable Arguments](functions/variable-arguments.md)
 
