@@ -7,7 +7,7 @@
 * **chained conditional**
   * A conditional statement with a series of alternative branches.
 * **comparison operator**
-  * One of the operators that compares its operands ==, !=, &gt;,&lt;&gt;=, and &lt;=[\[33\]](https://en.wikiversity.org/wiki/Python_Programming/Conditions#cite_note-33)
+  * One of the operators that compares its operands ==, !=, &gt;,&lt;&gt;=, and &lt;=
 * **conditional statement**
   * A statement that controls the flow of execution depending on some condition.
 * **condition**
