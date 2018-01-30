@@ -131,4 +131,5 @@
   * [Key Terms](files/key-terms.md)
 * [Internet Data](internet-data.md)
   * [The urllib.request.urlopen\(\) Method](internet-data/the-urllibrequesturlopen-method.md)
+  * [The xml.etree.ElementTree.fromstring\(\) Method](internet-data/the-xmletreeelementtreefromstring-method.md)
 
