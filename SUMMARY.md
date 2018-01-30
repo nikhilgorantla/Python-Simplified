@@ -116,4 +116,5 @@
   * [The os.path.join\(\) Method](files/the-ospathjoin-method.md)
   * [The os.mkdir\(\) Method](files/the-osmkdir-method.md)
   * [The os.rmdir\(\) Method](files/the-osrmdir-method.md)
+  * [The os.walk\(\) Method](files/the-oswalk-method.md)
 
