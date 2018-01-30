@@ -1,6 +1,4 @@
-# Key Terms in Python
-
-## **Basic Key terms **
+# **Basic Key terms **
 
 * **bug**
   * An error in a program.
@@ -71,8 +69,6 @@
 * **source code**
 
   * A program in a high-level language.
-
-
 
 
 
