@@ -34,6 +34,7 @@
 * [Break Statement](break-statement.md)
 * [Continue Statement](loops/continue-statement.md)
 * [Nested Loops](loops/nested-loops.md)
+* [loops Key Terms](loops/loops-key-terms.md)
 
 ## Functions
 
