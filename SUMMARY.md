@@ -124,4 +124,5 @@
   * [The file.read\(\) Method](files/the-fileread-method.md)
   * [Reading Lines](files/reading-lines.md)
   * [The file.tell\(\) Method](files/the-filetell-method.md)
+  * [The file.seek\(\) Method](files/the-fileseek-method.md)
 
