@@ -11,6 +11,7 @@
   * [Quotes](variables/quotes.md)
   * [Numeric Operations](variables/numeric-operations.md)
   * [Assignment Operations](variables/assignment-operations.md)
+  * [Input Function](variables/input-function.md)
 
 ## Conditions
 
