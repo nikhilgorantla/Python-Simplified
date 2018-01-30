@@ -109,4 +109,6 @@
   * [The compile\(\) Method](regex/the-compile-method.md)
   * [Match Groups](regex/match-groups.md)
   * [Key Terms](regex/key-terms.md)
+* [Files](files.md)
+  * [The os.getcwd\(\) Method](files/the-osgetcwd-method.md)
 
