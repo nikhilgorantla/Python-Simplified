@@ -5,7 +5,7 @@
 * [Introduction](README.md)
   * [Basics](chapter1.md)
   * [Key Terms](key-terms.md)
-* [VARIABLES](variables.md)
+* [Variables](variables.md)
   * [Data Types](variables/data-types.md)
   * [Type Conversion](variables/data-types/type-conversion.md)
   * [Quotes](variables/quotes.md)
