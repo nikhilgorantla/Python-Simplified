@@ -105,4 +105,5 @@
   * [Greedy vs. Non-greedy](regex/greedy-vs-non-greedy.md)
   * [The findall\(\) Method](regex/the-findall-method.md)
   * [The sub\(\) Method](regex/the-sub-method.md)
+  * [The split\(\) Method](regex/the-split-method.md)
 
