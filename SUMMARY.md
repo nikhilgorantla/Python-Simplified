@@ -49,5 +49,6 @@
   * [String Methods](strings/string-methods.md)
   * [String Parsing](strings/string-parsing.md)
   * [String Formatting](strings/string-formatting.md)
-  * [str.format\(\) Method](strings/strformat-method.md)
+  * [Method str.format\(\) Function](strings/strformat-method.md)
+  * [Method len\(\) function](strings/method-len-function.md)
 
