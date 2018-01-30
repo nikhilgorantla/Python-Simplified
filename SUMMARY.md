@@ -47,4 +47,5 @@
 * [Assertions](functions/assertions.md)
 * [Variable Arguments](functions/variable-arguments.md)
 * [Variable Named Arguments](functions/variable-named-arguments.md)
+* [Docstring](functions/docstring.md)
 
