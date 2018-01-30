@@ -43,4 +43,5 @@
 * [Global Variables](functions/global-variables.md)
 * [Nonlocal Variables](functions/nonlocal-variables.md)
 * [Parameters](functions/parameters.md)
+* [Parameter Validation](functions/parameter-validation.md)
 
