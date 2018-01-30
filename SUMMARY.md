@@ -35,3 +35,7 @@
 * [Continue Statement](loops/continue-statement.md)
 * [Nested Loops](loops/nested-loops.md)
 
+## Functions
+
+* [Built-In Functions](functions/built-in-functions.md)
+
