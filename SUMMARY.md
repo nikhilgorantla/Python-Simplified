@@ -5,18 +5,8 @@
 * [Introduction](README.md)
   * [Basics](chapter1.md)
   * [Key Terms](key-terms.md)
-
-## Variables
-
-* [Variables](variables.md)
-  * [Variables](variables.md)
-  * [Data Types](data-types.md)
-  * [Type Conversion ](type-conversion.md)
-  * [Quotes](quotes.md)
-  * [Numeric Operations   ](numeric-operations.md)
-  * [Assignment Operations  ](assignment-operations.md)
-  * [Input Function   ](input-function.md)
-  * [Variables Key Terms](variables-key-terms.md)
+* [VARIABLES](variables.md)
+  * [Data Types](variables/data-types.md)
 
 ## Conditions
 
