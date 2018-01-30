@@ -99,4 +99,6 @@
   * [The import Statement](python-modules/the-import-statement.md)
   * [The from  import Statement](python-modules/the-from-import-statement.md)
   * [Module Name](python-modules/module-name.md)
+* [RegEx](regex.md)
+  * [The match\(\) Method](regex/the-match-method.md)
 
