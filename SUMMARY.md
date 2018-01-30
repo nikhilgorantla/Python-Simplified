@@ -53,5 +53,6 @@
   * [Method len\(\) function](strings/method-len-function.md)
   * [Strings Key words](strings/strings-key-words.md)
 * [Python Lists](python-lists.md)
-  * LIsts
+  * [LIsts](python-lists/lists.md)
+  * [Index](python-lists/index.md)
 
