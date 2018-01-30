@@ -128,4 +128,5 @@
   * [The os.rename\(\) Method](files/the-osrename-method.md)
   * The os.remove\(\) Method
   * [The sys.argv Property](files/the-sysargv-property.md)
+  * [Key Terms](files/key-terms.md)
 
