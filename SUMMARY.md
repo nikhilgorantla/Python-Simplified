@@ -102,4 +102,5 @@
 * [RegEx](regex.md)
   * [The match\(\) Method](regex/the-match-method.md)
   * [The search\(\) Method](regex/the-search-method.md)
+  * [Greedy vs. Non-greedy](regex/greedy-vs-non-greedy.md)
 
