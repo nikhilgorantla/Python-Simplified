@@ -15,9 +15,7 @@ The print function prints objects to standard output or to a text stream.
 ```
 # This script demonstrates a Python print statement.
 print
-(
-"Hello gitbook!"
-)
+("Hello gitbook!")
 ```
 
 ### Exit
